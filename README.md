@@ -1,4 +1,4 @@
-# Анонимный чат бот для Telegram
+# Анонимный чат бот для Telegram (Сделан при поддержки компании [SvPg Corporation](https://t.me/svpgcorporation))
 
 ## Инструменты 🛠
 ![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)
